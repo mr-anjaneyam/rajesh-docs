@@ -52,7 +52,7 @@ function closePreview() {
 
 document.addEventListener('DOMContentLoaded', loadDocuments);
 
-const correctPassword = "1111";
+const correctPassword = "201020";
 
 function handleLogin(event) {
     event.preventDefault();
